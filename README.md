@@ -84,7 +84,7 @@ This project reinforced the importance of clean data and effective visualization
 
 
 ### **10. Link or Access**
-![Power BI Report](Assets/Manufacturing Intelligence.pbix)
+![Power BI Report](Assets/Manufacturing_Intelligence.pbix)
 
 
 Feel free to explore the project, share your feedback, or suggest improvements! Let's collaborate on building smarter manufacturing solutions together!
